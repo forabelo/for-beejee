@@ -1,0 +1,14 @@
+{
+    "name": "igor/another-one",
+    "description": "A test project for beejee part1",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/",
+            "Core\\": "core/"
+        }
+    },
+    "require": {
+        "illuminate/database": "^8.16"
+    }
+}
