@@ -9,7 +9,7 @@ $capsule->addConnection([
     'host'      => 'localhost',
     'database'  => 'beejee',
     'username'  => 'root',
-    'password'  => 'qwer1221',
+    'password'  => 'password',
     'charset'   => 'utf8',
     'collation' => 'utf8_unicode_ci',
     'prefix'    => '',
